@@ -1554,19 +1554,19 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: #fffafa !important;
 	}
 
 	form :-moz-placeholder {
-		color: #cac8c8 !important;
+		color:#fffafa !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #cac8c8 !important;
+		color: #fffafa !important;
 	}
 
 	form :-ms-input-placeholder {
-		color:#cac8c8 !important;
+		color:#fffafa !important;
 	}
 
 	form ::-moz-focus-inner {
