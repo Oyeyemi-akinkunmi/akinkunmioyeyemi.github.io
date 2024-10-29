@@ -1558,15 +1558,15 @@ input, select, textarea {
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #cac8c8 !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: #cac8c8 !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color:#cac8c8 !important;
 	}
 
 	form ::-moz-focus-inner {
